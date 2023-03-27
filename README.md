@@ -40,8 +40,8 @@ If you're interested in collaborating on a project or just want to chat, find me
 ## 🌈 Fun Facts
 
 - I never say no to a good cup of coffee ☕️
-- When I'm not coding, you can find me painting colorful artworks 🎨 
-- I'm passionate about sustainability and volunteer for local environmental initiatives 🌍
+- When I'm not coding, I love to spend time socializing with friends and family 👫. Whether it's trying out a new restaurant, watching a movie together, or just having a game night at home, I believe that spending quality time with loved ones is important for both mental and emotional well-being. Building relationships and making memories with the people in my life is just as fulfilling to me as creating something with code.
+- I am proud to have placed second in the Orienteering Championship of Turkey 🏆. It was an incredible experience to compete against some of the best orienteers in the country and push my limits. This accomplishment taught me the importance of perseverance, dedication, and teamwork. Through countless hours of practice and preparation, I was able to hone my skills and achieve my goal. I will always remember this moment as a reminder of what can be accomplished with focus, discipline, and passion.
 
 ## 🔑 License
 
