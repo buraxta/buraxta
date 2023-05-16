@@ -13,6 +13,7 @@ I'm always experimenting with new technologies and tools to bring my ideas to li
 - **Sass** 💅: A CSS preprocessor that streamlines my workflow and helps me write cleaner code.
 - **Bootstrap** 🛡️: A popular front-end framework that accelerates my development process.
 - **React** ⚛️: A powerful front-end framework that helps me build beautiful UIs quickly.
+- **Next.js** 🌐: A popular React framework for building server-side rendered and static websites. 
 - **Node.js** 🚀: The perfect backend platform for scaling services and APIs.
 - **Express** 🔥: A fast, unopinionated, minimalist web framework for Node.js that allows me to build robust APIs.
 - **MongoDB** 🍃: A flexible NoSQL database that plays well with Node.js.
