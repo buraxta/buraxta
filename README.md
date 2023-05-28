@@ -27,12 +27,16 @@ By using a combination of these technologies, I can create vibrant and interacti
 ## 🚀 My Projects
 
 Ready to see my work in action? Check out some of my latest projects:
+- [⚛️ Basic React Counter App](https://github.com/buraxta/Basic-React-Counter-App): A simple counter application built with React.
 - [🎈 Nodejs-Basic-CRUD-Project](https://github.com/buraxta/Nodejs-Basic-CRUD-Project): Node.js API built with Express.js and Mongoose to perform CRUD operations on a MongoDB database.
 - [💡 Cooking Blog](https://github.com/buraxta/CookingBlog): CookingBlog is a responsive food blog website built with Nodejs and MongoDB
 - [🔥 Student Management System](https://github.com/buraxta/student-management-system): This is a study aiming for making some practice with spring boot and thymeleaf.
 - [🌈 Swing Project](https://github.com/buraxta/Swing-Project-with-MySQL): Even if swing is known as an old school, in this project primary aim is to develop fundamental skil on swing and MySql.
 - [💻 Pong-Game](https://github.com/buraxta/Pong-Game-JS): My aim here was making some practice with HTML-CSS-JavaScript.
 - ...
+
+
+Bu şekilde, yaptığınız Basic React Counter App projesi de listeye eklenmiş oldu.
 
 
 ## 📫 Connect with Me
