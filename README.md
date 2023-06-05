@@ -27,6 +27,7 @@ By using a combination of these technologies, I can create vibrant and interacti
 ## 🚀 My Projects
 
 Ready to see my work in action? Check out some of my latest projects:
+- [🚗 Tesla Clone](https://github.com/buraxta/Tesla-Clone) A project aiming to replicate the official website of Tesla. Built using React, Redux Toolkit, MUI, Styled Component. It provides users with an immersive experience to explore Tesla's different car models.
 - [⚛️ Basic React Counter App](https://github.com/buraxta/Basic-React-Counter-App): A simple counter application built with React.
 - [🎈 Nodejs-Basic-CRUD-Project](https://github.com/buraxta/Nodejs-Basic-CRUD-Project): Node.js API built with Express.js and Mongoose to perform CRUD operations on a MongoDB database.
 - [💡 Cooking Blog](https://github.com/buraxta/CookingBlog): CookingBlog is a responsive food blog website built with Nodejs and MongoDB
@@ -35,8 +36,6 @@ Ready to see my work in action? Check out some of my latest projects:
 - [💻 Pong-Game](https://github.com/buraxta/Pong-Game-JS): My aim here was making some practice with HTML-CSS-JavaScript.
 - ...
 
-
-Bu şekilde, yaptığınız Basic React Counter App projesi de listeye eklenmiş oldu.
 
 
 ## 📫 Connect with Me
