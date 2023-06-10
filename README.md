@@ -6,11 +6,13 @@
 
 I'm always experimenting with new technologies and tools to bring my ideas to life. Here are some of my favorites:
 
+
 - **HTML** 🌐: The foundation of all my web projects.
 - **CSS** 🎨: A powerful styling language that brings my designs to life.
 - **JavaScript** 🌟: The backbone of my dynamic web applications and games.
 - **jQuery** 💡: A fast and concise JavaScript library that simplifies HTML document traversing, event handling, and animation.
-- **Sass** 💅: A CSS preprocessor that streamlines my workflow and helps me write cleaner code.
+- **Sass** <img src="https://github.com/buraxta/buraxta/assets/85554705/662f949b-b3b7-4e7d-8eaf-f7973c058b1e" width="18px"/>: A CSS preprocessor that streamlines my workflow and helps me write cleaner code.
+- **Styled Components** 💅: A CSS-in-JS library that allows me to write CSS code as components in my React applications, making styling more modular and reusable.
 - **Bootstrap** 🛡️: A popular front-end framework that accelerates my development process.
 - **React** ⚛️: A powerful front-end framework that helps me build beautiful UIs quickly.
 - **Next.js** 🌐: A popular React framework for building server-side rendered and static websites. 
