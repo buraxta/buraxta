@@ -29,6 +29,7 @@ By using a combination of these technologies, I can create vibrant and interacti
 ## 🚀 My Projects
 
 Ready to see my work in action? Check out some of my latest projects:
+- [🍔 Food Order App:](https://github.com/buraxta/food-order-app) This is a food order app project that I developed for educational purposes. The project is designed to showcase the usage of various React hooks, including useState, useEffect, useReducer, useContext, useCallback, and useRef.
 - [🎥 Full-Stack Movie Project:](https://github.com/buraxta/full-stack-movie-project) It is developed using React on the front-end and Spring Boot with Spring MVC on the back-end and MongoDB serves as the database. Users can view movie information, watch trailers and add comments to movies in this project.
 - [📝 MERNstack-Blog:](https://github.com/buraxta/MERNstack-Blog) MERNstack-Blog is a full-stack blogging website developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to sign in, create, edit posts, and more. Experience the power of MERN stack in building dynamic and feature-rich web applications.
 - [🚗 Tesla Clone](https://github.com/buraxta/Tesla-Clone) A project aiming to replicate the official website of Tesla. Built using React, Redux Toolkit, MUI, Styled Component. It provides users with an immersive experience to explore Tesla's different car models.
