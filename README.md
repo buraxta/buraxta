@@ -29,6 +29,8 @@ By using a combination of these technologies, I can create vibrant and interacti
 ## 🚀 My Projects
 
 Ready to see my work in action? Check out some of my latest projects:
+ 
+- [🕒 Cook Time Calculator App:](https://github.com/buraxta/cook-time-calculater-app) This project, named "Cook Time Calculator App," is designed for educational purposes. It demonstrates the concept of parallel programming logic. The frontend is built with Next.js, while the backend uses Python with the Flask framework, showcasing the principles of parallel programming.
 - [🍔 Food Order App:](https://github.com/buraxta/food-order-app) This is a food order app project that I developed for educational purposes. The project is designed to showcase the usage of various React hooks, including useState, useEffect, useReducer, useContext, useCallback, and useRef.
 - [🎥 Full-Stack Movie Project:](https://github.com/buraxta/full-stack-movie-project) It is developed using React on the front-end and Spring Boot with Spring MVC on the back-end and MongoDB serves as the database. Users can view movie information, watch trailers and add comments to movies in this project.
 - [📝 MERNstack-Blog:](https://github.com/buraxta/MERNstack-Blog) MERNstack-Blog is a full-stack blogging website developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to sign in, create, edit posts, and more. Experience the power of MERN stack in building dynamic and feature-rich web applications.
