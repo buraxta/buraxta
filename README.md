@@ -20,8 +20,6 @@ I'm always experimenting with new technologies and tools to bring my ideas to li
 - **Express** 🔥: A fast, unopinionated, minimalist web framework for Node.js that allows me to build robust APIs.
 - **MongoDB** 🍃: A flexible NoSQL database that plays well with Node.js.
 - **SQL** 🗃️: The go-to language for relational databases.
-- **Java** ☕: A versatile programming language that I use to build enterprise-level applications.
-- **Spring** 🌸: A powerful Java-based framework for building enterprise-level applications.
 
 
 By using a combination of these technologies, I can create vibrant and interactive projects that captivate audiences and solve real-world problems.
