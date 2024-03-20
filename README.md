@@ -1,6 +1,9 @@
+<img src="https://github-readme-stats-orpin-three-22.vercel.app/api?username=buraxta&show_iconst=ture&hide_border=true" />
+
 # 👋 Hey there, I'm Burak 
 
 🎉 Ready to explore my world of vibrant code and creative projects? You're in the right place! 🎉 
+
 
 ## 💻 Technologies I Use
 
