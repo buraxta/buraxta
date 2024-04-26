@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats-orpin-three-22.vercel.app/api?username=buraxta&show_iconst=ture&hide_border=true" />
 
 # 👋 Hey there, I'm Burak 
 
