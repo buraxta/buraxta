@@ -39,7 +39,7 @@ Passionate about building scalable, modern, and user-centric applications. I spe
 An advanced platform designed for orthopedic clinics, integrating scheduling, patient management, and AI-powered diagnostics.
 - **Tech Stack:** Next.js, Prisma, Tailwind CSS, .NET Core, Azure, PostgreSQL
 
-### **📊 [Performa.nz](https://www.performanz.vercel.app/)**
+### **📊 [Performa.nz](https://performanz.vercel.app/)**
 A performance-tracking platform enabling businesses to monitor, analyze, and optimize their operations.
 - **Tech Stack:** Next.js, Redux, Tailwind CSS, .NET Core, Entity Framework Core, PostgreSQL
 
