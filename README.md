@@ -1,56 +1,74 @@
+# 👋 Hello, I'm Burak
 
-# 👋 Hey there, I'm Burak 
+🚀 **Full-Stack Web & Mobile Developer** | 💻 **Computer Engineer**  
 
-🎉 Ready to explore my world of vibrant code and creative projects? You're in the right place! 🎉 
+Passionate about building scalable, modern, and user-centric applications. I specialize in full-stack web development and cross-platform mobile apps, leveraging cutting-edge technologies to deliver high-quality solutions.
 
+---
 
-## 💻 Technologies I Use
+## 🛠️ Tech Stack & Expertise
 
-I'm always experimenting with new technologies and tools to bring my ideas to life. Here are some of my favorites:
+### **Frontend Development**
+- **React.js & Next.js** ⚛️ – My go-to framework for building dynamic and performant web applications.
+- **TypeScript** 🔹 – Bringing type safety and scalability to JavaScript projects.
+- **Tailwind CSS** 🎨 – Ensuring clean, modern, and responsive UI design.
+- **ShadCN UI & Ant Design** 📦 – Component libraries for a seamless developer experience.
+- **Redux & Zustand** 🌟 – Efficient state management for complex applications.
 
+### **Backend Development**
+- **.NET Core** 🏗️ – Preferred for building scalable, high-performance backend systems.
+- **Entity Framework Core (EF Core)** 🔍 – ORM for managing relational databases efficiently.
+- **Node.js & Express** 🚀 – For lightweight, fast, and RESTful API development.
+- **Prisma ORM** 🗃️ – A modern database toolkit for TypeScript and JavaScript applications.
+- **SQL & NoSQL (MongoDB, PostgreSQL, MySQL)** – Handling structured and unstructured data effectively.
 
-- **HTML** 🌐: The foundation of all my web projects.
-- **CSS** 🎨: A powerful styling language that brings my designs to life.
-- **JavaScript** 🌟: The backbone of my dynamic web applications and games.
-- **React** ⚛️: A powerful front-end framework that helps me build beautiful UIs quickly.
-- **Next.js** 🌐: A popular React framework for building server-side rendered and static websites. 
-- **Node.js** 🚀: The perfect backend platform for scaling services and APIs.
-- **Express** 🔥: A fast, unopinionated, minimalist web framework for Node.js that allows me to build robust APIs.
-- **MongoDB** 🍃: A flexible NoSQL database that plays well with Node.js.
-- **SQL** 🗃️: The go-to language for relational databases.
+### **Mobile Development**
+- **Flutter** 📱 – My preferred framework for crafting beautiful, high-performance cross-platform mobile apps.
+- **React Native** 🔧 – Familiar with the ecosystem but prefer Flutter for its better developer experience.
 
+### **DevOps & Cloud**
+- **Docker & Kubernetes** 🐳 – Containerized deployments for scalability.
+- **Azure & AWS** ☁️ – Cloud-based solutions and hosting.
+- **CI/CD Pipelines (GitHub Actions, Azure DevOps)** 🚀 – Automating deployment workflows.
 
-By using a combination of these technologies, I can create vibrant and interactive projects that captivate audiences and solve real-world problems.
+---
 
-## 🚀 My Projects
+## 🌟 Featured Projects
 
-Ready to see my work in action? Check out some of my latest projects:
- 
-- [🕒 Cook Time Calculator App:](https://github.com/buraxta/cook-time-calculater-app) This project, named "Cook Time Calculator App," is designed for educational purposes. It demonstrates the concept of parallel programming logic. The frontend is built with Next.js, while the backend uses Python with the Flask framework, showcasing the principles of parallel programming.
-- [🍔 Food Order App:](https://github.com/buraxta/food-order-app) This is a food order app project that I developed for educational purposes. The project is designed to showcase the usage of various React hooks, including useState, useEffect, useReducer, useContext, useCallback, and useRef.
-- [🎥 Full-Stack Movie Project:](https://github.com/buraxta/full-stack-movie-project) It is developed using React on the front-end and Spring Boot with Spring MVC on the back-end and MongoDB serves as the database. Users can view movie information, watch trailers and add comments to movies in this project.
-- [📝 MERNstack-Blog:](https://github.com/buraxta/MERNstack-Blog) MERNstack-Blog is a full-stack blogging website developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to sign in, create, edit posts, and more. Experience the power of MERN stack in building dynamic and feature-rich web applications.
-- [🚗 Tesla Clone](https://github.com/buraxta/Tesla-Clone) A project aiming to replicate the official website of Tesla. Built using React, Redux Toolkit, MUI, Styled Component. It provides users with an immersive experience to explore Tesla's different car models.
-- [⚛️ React Counter App](https://github.com/buraxta/React-Counter-App): A simple counter application built with React.
-- [🎈 Nodejs-Basic-CRUD-Project](https://github.com/buraxta/Nodejs-Basic-CRUD-Project): Node.js API built with Express.js and Mongoose to perform CRUD operations on a MongoDB database.
-- [💡 Cooking Blog](https://github.com/buraxta/CookingBlog): CookingBlog is a responsive food blog website built with Nodejs and MongoDB
-- [🔥 Student Management System](https://github.com/buraxta/student-management-system): This is a study aiming for making some practice with spring boot and thymeleaf.
-- [🌈 Swing Project](https://github.com/buraxta/Swing-Project-with-MySQL): Even if swing is known as an old school, in this project primary aim is to develop fundamental skil on swing and MySql.
-- [💻 Pong-Game](https://github.com/buraxta/Pong-Game-JS): My aim here was making some practice with HTML-CSS-JavaScript.
-- ...
+### **🚀 [OrthoOrigin](https://www.orthoorigin.com/)**
+An advanced platform designed for orthopedic clinics, integrating scheduling, patient management, and AI-powered diagnostics.
+- **Tech Stack:** Next.js, Prisma, Tailwind CSS, .NET Core, Azure, PostgreSQL
 
+### **📊 [Performa.nz](https://www.performa.nz/)**
+A performance-tracking platform enabling businesses to monitor, analyze, and optimize their operations.
+- **Tech Stack:** Next.js, Redux, Tailwind CSS, .NET Core, Entity Framework Core, PostgreSQL
 
+### **🏗️ [GOK CNC](https://www.gokcnc.com/)**
+A precision engineering management system for CNC manufacturing processes.
+- **Tech Stack:** Next.js, Prisma, Tailwind CSS, .NET Core, MongoDB
 
-## 📫 Connect with Me
+and more...
+---
 
-If you're interested in collaborating on a project or just want to chat, find me on [LinkedIn](https://www.linkedin.com/in/burak-gulluler/) or drop me an email at [burakgulluler@gmail.com](mailto:burakgulluler@gmail.com).
+## 📬 Connect with Me
 
-## 🌈 Fun Facts
+If you're looking for a dedicated developer or want to collaborate on an exciting project, feel free to reach out:
 
-- I never say no to a good cup of coffee ☕️
-- When I'm not coding, I love to spend time socializing with friends and family 👫. Whether it's trying out a new restaurant, watching a movie together, or just having a game night at home, I believe that spending quality time with loved ones is important for both mental and emotional well-being. Building relationships and making memories with the people in my life is just as fulfilling to me as creating something with code.
-- I am proud to have placed second in the Orienteering Championship of Turkey 🏆. It was an incredible experience to compete against some of the best orienteers in the country and push my limits. This accomplishment taught me the importance of perseverance, dedication, and teamwork. Through countless hours of practice and preparation, I was able to hone my skills and achieve my goal. I will always remember this moment as a reminder of what can be accomplished with focus, discipline, and passion.
+- 📩 **Email:** [burakgulluler@gmail.com](mailto:burakgulluler@gmail.com)
+- 💼 **LinkedIn:** [Burak Güllüler](https://www.linkedin.com/in/burak-gulluler/)
 
-## 🔑 License
+---
 
-All of my projects are licensed under the MIT License.
+## 🎯 Fun Facts
+- ☕ Coffee fuels my creativity and code!
+- 🌍 I placed **2nd in the Turkish Orienteering Championship**—a testament to my problem-solving skills under pressure.
+- 🏆 Passionate about building innovative solutions that make a real-world impact.
+
+---
+
+## ⚖️ License
+All my projects are licensed under the **MIT License**—feel free to explore, contribute, and build upon them!
+
+---
+
+### **Let's build something amazing together! 🚀**
