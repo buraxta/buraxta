@@ -3,6 +3,9 @@
 🚀 **Full-Stack Web & Mobile Developer** | 💻 **Computer Engineer**  
 
 Passionate about building scalable, modern, and user-centric applications. I specialize in full-stack web development and cross-platform mobile apps, leveraging cutting-edge technologies to deliver high-quality solutions.
+---
+## 📈 GitHub Stats
+![buraxta's GitHub stats](https://github-readme-stats.vercel.app/api?username=buraxta&show_icons=true&theme=radical)
 
 ---
 
@@ -30,6 +33,7 @@ Passionate about building scalable, modern, and user-centric applications. I spe
 - **Docker & Kubernetes** 🐳 – Containerized deployments for scalability.
 - **Azure & AWS** ☁️ – Cloud-based solutions and hosting.
 - **CI/CD Pipelines (GitHub Actions, Azure DevOps)** 🚀 – Automating deployment workflows.
+
 
 ---
 
