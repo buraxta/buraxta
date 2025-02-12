@@ -27,8 +27,8 @@ Passionate about building scalable, modern, and user-centric applications. I spe
 - **SQL & NoSQL (MongoDB, PostgreSQL, MySQL)** – Handling structured and unstructured data effectively.
 
 ### **Mobile Development**
-- **Flutter** 📱 – My preferred framework for crafting beautiful, high-performance cross-platform mobile apps.
-- **React Native** 🔧 – Familiar with the ecosystem but prefer Flutter for its better developer experience.
+-  **React Native**📱 – My preferred framework for crafting beautiful, high-performance cross-platform mobile apps.
+- **Flutter** 🔧 – Familiar with the ecosystem but prefer React Native for its better developer experience.
 
 ### **DevOps & Cloud**
 - **Docker & Kubernetes** 🐳 – Containerized deployments for scalability.
