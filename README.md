@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Burak
 
-🚀 **Full-Stack Web & Mobile Developer** | 💻 **Computer Engineer**  
+🚀 **Software Developer** | 💻 **Computer Engineer**  
 
 Passionate about building scalable, modern, and user-centric applications. I specialize in full-stack web development and cross-platform mobile apps, leveraging cutting-edge technologies to deliver high-quality solutions.
 
