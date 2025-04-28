@@ -40,6 +40,10 @@ Passionate about building scalable, modern, and user-centric applications. I spe
 
 ## 🌟 Featured Projects
 
+### **💬 [AskMeNow](https://github.com/buraxta/AskMeNow)**
+A powerful desktop AI chat application offering access to the latest models at very affordable prices.
+- **Tech Stack:** Electron.js, React.js, Vite, Typescript,  Tailwind CSS
+
 ### **🚀 [OrthoOrigin](https://www.orthoorigin.com/)**
 An advanced platform designed for orthopedic clinics, integrating scheduling, patient management, and AI-powered diagnostics.
 - **Tech Stack:** Next.js, Prisma, Tailwind CSS, .NET Core, Azure, PostgreSQL
