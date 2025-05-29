@@ -48,7 +48,7 @@ A powerful desktop AI chat application offering access to the latest models at v
 An advanced platform designed for orthopedic clinics, integrating scheduling, patient management, and AI-powered diagnostics.
 - **Tech Stack:** Next.js, Prisma, Tailwind CSS, .NET Core, Azure, PostgreSQL
 
-### **📊 [Performa.nz](https://performanz.vercel.app/)**
+### **📊 [Performa.nz](https://performa.nz/)**
 A performance-tracking platform enabling businesses to monitor, analyze, and optimize their operations.
 - **Tech Stack:** Next.js, Redux, Tailwind CSS, .NET Core, Entity Framework Core, PostgreSQL
 
